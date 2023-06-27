@@ -1,0 +1,2 @@
+# cloudformation-cloudfront-s3-pipeline
+CodeCommitプッシュ時に自動でS3にデプロイするCloudFormationテンプレート
